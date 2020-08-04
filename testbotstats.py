@@ -20,5 +20,5 @@ async def send_m(ctx, *, arg):
  
  
 # RUN
-token =(
+token= os.environ.get('BOT_TOKEN')
 client.run( token )
