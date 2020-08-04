@@ -16,7 +16,7 @@ async def on_redy():
 @commands.has_permissions(administrator = True)
 async def send_m(ctx, *, arg):
     await ctx.channel.purge(limit = 1)
-    await ctx.send('```' + arg + '```') 
+    await ctx.author.send('```' + arg + '```') 
  
  
 # RUN
