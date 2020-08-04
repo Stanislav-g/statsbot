@@ -20,5 +20,5 @@ async def send_m(ctx, *, arg):
  
  
 # RUN
-token =('NzM2ODgxODY4MDQwODMxMDU2.Xx1Qtw.ei0TwK1eowlOTwID3u8WuupiU2A')
+token =(
 client.run( token )
