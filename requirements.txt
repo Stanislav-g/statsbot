@@ -5,6 +5,7 @@ chardet
 youtube_dl
 requests
 ffmpeg
-discord.py[voice]
+pynacl
+PyNaCl
 
 
