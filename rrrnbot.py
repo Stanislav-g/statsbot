@@ -13,7 +13,6 @@ from random import randint, choice, choices
 import io
 import random as r
 import ffmpeg
-import pynacl
 import PyNaCl
 
 
