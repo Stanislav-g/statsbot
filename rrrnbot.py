@@ -1401,6 +1401,6 @@ async def covid(ctx):
     await ctx.send(f'https://www.worldometers.info/coronavirus/') 
    
    
-token =('NzM2ODgxODY4MDQwODMxMDU2.Xx1Qtw.rUVZ7tsV6-eVy_O33zp8CtM2F5E')
+token =('')
 client.run( token )
 
