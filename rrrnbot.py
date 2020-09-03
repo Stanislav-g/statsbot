@@ -13,7 +13,7 @@ from random import randint, choice, choices
 import io
 import random as r
 import ffmpeg
-import discord[voice]
+import voice
 
 
 client = commands.Bot( command_prefix = '-')
