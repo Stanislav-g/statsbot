@@ -5,6 +5,6 @@ chardet
 youtube_dl
 requests
 ffmpeg
-
+PyNaCl
 
 
